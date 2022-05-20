@@ -50,6 +50,7 @@ Note the following:
 
 Walls are the basic components of the house. Walls will be rectangles and have up to one opening for the purpose of this set of exercises (for simplicity). We need to track the wall's:
 
+- **PlanId** (unique string to identify wall during renovation)
 - **Width** (in centimeters e.g.: "480"), 
 - **Height** (in centimeters e.g.: "240"), 
 - **Color** (e.g.: Ivory White),  
