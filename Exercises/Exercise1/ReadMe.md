@@ -81,8 +81,8 @@ A Room is a set of walls with or without openings. A Room represents an distinct
 
 - **Name** - This identifies the Room. Cannot not be null.
 - **Flooring** - This identifies the material of the floor such as tile, carpet, hardwood, etc. Can be null.
-- **List<Wall>** - This is the collection of walls for the Room.
-- **TotalWalls** - Returns the number of walls for this room int the List&lt;Wall&gt; collection.
+- **Walls** - This is the collection of walls for the Room.
+- **TotalWalls** - Returns the number of walls for this room in the List&lt;Wall&gt; collection.
 
 ![Room](./Room-ClassDiagram.png)
 
