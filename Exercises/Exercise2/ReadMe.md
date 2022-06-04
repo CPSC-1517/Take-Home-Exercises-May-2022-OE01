@@ -109,4 +109,4 @@ Your assignment will be marked based upon the following weights. See the [genera
 
 ## Credits
 
-- [AAR Car Type Codes Explained & Resources](https://www.railcartracking.com/aar-car-type-codes-explained-resources-2/)
+
