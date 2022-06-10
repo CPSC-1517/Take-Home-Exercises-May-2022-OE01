@@ -34,7 +34,7 @@ Extend the `Wall` class by adding the following methods.
 
 Modify the greedy constructor to receive a List&lt;Wall&gt;. If there is a supplied List<Wall> set the Walls property to the supplied list; otherwise set the property to an empty List<Wall>. This is needed to have JSON file I/O to work correctly.
 
-**NOTE: you WILL need to a ` ,null` argument to each `new Room(...)` creation in your RenoUnitTestsEx1 RoomTests class.**
+**NOTE: you WILL need to add a ` ,null` argument to each `new Room(...)` creation in your RenoUnitTestsEx1 RoomTests class.**
 
 Modify the `AddWall(Wall wall)` method to ensure the following:
 
