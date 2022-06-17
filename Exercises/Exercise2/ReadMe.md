@@ -72,7 +72,7 @@ Create a method which receives a string representing the JSON filename and retur
 
  Read the room information [formatted as JSON](https://docs.microsoft.com/dotnet/api/system.text.json.jsonserializer?view=net-5.0) from the `JSON` file you wrote. Return the Room data from the method. Display the Room data after returning from the read method.
 
- **HINT:** Remember to place the annotation `[JsonInclude]` in front of your properties that are readonly (have only a get;).
+ **HINT:** Remember to place the annotation `[JsonInclude]` in front of your fields that are public.
 
 ### Display Current Room
 Use the supplied routine to display the contents of a Room. 
