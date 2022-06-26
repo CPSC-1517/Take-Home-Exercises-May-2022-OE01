@@ -213,7 +213,11 @@ Library tailwindcss
 
 #### Replacement of default site.css 
 
+#### Holiday css
+
 `NOTE`: The **holiday.js.org** does not appear to require the `site.css` to have anything in it. (testing is still underway).
+
+#### AWSM css
 
 Here's a sample bit of styling you can place in your `site.css` file to replace its existing content. This styling increases the width and adds some menu styling based on awsm.
 
