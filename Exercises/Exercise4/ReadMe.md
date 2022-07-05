@@ -46,7 +46,7 @@ As you code, you will need to resolve references to appropriate namespaces holdi
 
 Rebuild your Application Class Library. You should get a successful build
 
-## Setup Web Application and Class Lbrary connections
+## Setup Web Application and Class Library connections
 
 You must configure the services coded in your class library for use in your webapp. This will involve creating your connection string, altering your `Program.cs` class and creating an extension method in your class library.
 
