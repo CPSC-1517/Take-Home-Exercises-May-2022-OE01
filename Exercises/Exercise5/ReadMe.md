@@ -12,7 +12,7 @@ Use the demos presented in class as a guide to implementing this exercise.
 
 ### Overview Query Page
 
-Create an `Query.cshtml`/`Query.cshtml.cs` Razor Page. The Page Model class must declare in its constructor a dependency on the `RenoServices`, `JobServices` and `SupplyServices` classes. Details of your display can be found below. Be sure to add a menu item so that this page can be navigated to using the main menu; use the text "Query" for the link. Add the necessary services to the class library to support this page.
+Create an `Query.cshtml`/`Query.cshtml.cs` Razor Page. The Page Model class must declare in its constructor a dependency on the `JobServices` and `SupplyServices` classes. Details of your display can be found below. Be sure to add a menu item so that this page can be navigated to using the main menu; use the text "Query" for the link. Add the necessary services to the class library to support this page.
 
 ### Reno System 
 
