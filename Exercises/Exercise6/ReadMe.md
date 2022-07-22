@@ -26,7 +26,7 @@ Add a button, called `New`, to the `Query.cshtml` page which will transfer conto
 
 ***Do not add an item on the menu for this page. It should only be reached via the `Query.cshtml` page.***
 
-Create a Razor Page called `CRUDPage.cshtml`. This page will be used to maintain the job Supplies database table. Maintenance will consist of a) adding new job supply; b) updating existing job supply; and c) delete a job supply. Create a form that will display all fields of the record. Use a select control for the JobId (display the job description). Use a input control of number for the Quantity and MaterialCost. The SupplyId control will be disabled. The delete button must have a confirmation message attached to the button. Add a button to return to the `Query` page and a button to clear the form.
+Create a Razor Page called `CRUDPage.cshtml`. This page will be used to maintain the job Supplies database table. Maintenance will consist of a) adding new job supply; b) updating existing job supply; and c) delete a job supply. Create a form that will display all fields of the record. Use a select control for the JobId (display the job description). Use an input control of number for the Quantity and MaterialCost. The SupplyId control will be disabled. The delete button must have a confirmation message attached to the button. Add a button to return to the `Query` page and a button to clear the form.
 
 Add appropriate service methods to your Supply services to a) obtain a specific Supply record (see supplied query), b) add a new record to the Supply table, c) update an existing record on the Supply table and d) physically remove an existing record from the Supply table.
 
@@ -72,7 +72,7 @@ Your assignment will be marked based upon the following weights.
 |  | 2  | `CRUD.cshtml.cs` user friendly error handling |   |
 |  | 2 | `RollingStock.cs` Add method |   |
 |  | 2 | `RollingStock.cs` Update method |    |
-|  | 2 | `RollingStock.cs` Deactivate (delete) method update InService to be false | set it to true    |
+|  | 2 | `RollingStock.cs` Deactivate (delete) method update InService to be false |     |
 |  | (-5)  | `Other concerns` penalties for other problems max -5 |   |
 |  | **20** | **Total Weight** |   |
 
