@@ -70,9 +70,9 @@ Your assignment will be marked based upon the following weights.
 |  | 1 | `CRUD.cshtml.cs` Update button process |    |
 |  | 2 | `CRUD.cshtml.cs` Delete button process with confirmation prompt |     |
 |  | 2  | `CRUD.cshtml.cs` user friendly error handling |   |
-|  | 2 | `RollingStock.cs` Add method |   |
-|  | 2 | `RollingStock.cs` Update method |    |
-|  | 2 | `RollingStock.cs` Deactivate (delete) method update InService to be false |     |
+|  | 2 | `Supply Services` Add method |   |
+|  | 2 | `Supply Services` Update method |    |
+|  | 2 | `Supply Services` Delete method |     |
 |  | (-5)  | `Other concerns` penalties for other problems max -5 |   |
 |  | **20** | **Total Weight** |   |
 
